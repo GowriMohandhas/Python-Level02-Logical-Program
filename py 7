@@ -1,0 +1,8 @@
+print("circle program")
+print("--------------")
+R=int(input("enter the R value:"))
+print("result")
+pc=2*22/7*R
+print("perimeter of circle:",pc)
+ac=22/7*R*R
+print("area of circle:",ac)
